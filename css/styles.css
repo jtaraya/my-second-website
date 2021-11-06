@@ -54,10 +54,13 @@ img {
   padding: 20px;
 }
 .inline{
-    background-color: rgb(14, 233, 233);
     color: blueviolet;
     font-style: italic;
 }
 .text-box{
-    border-top: 4px solid rgb(255, 255, 255);
+    border-top: 5px solid rgb(255, 255, 255);
+    border-bottom: 5px solid rgb(255, 255, 255);
+    padding: 7px;
+    margin: 10px;
+    background-color: aliceblue;
 }
