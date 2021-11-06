@@ -42,14 +42,14 @@ img {
   font-weight: bold;
 }
 .important {
-  background-color: bisque;
-  float: left;
+  background-color:rgb(219, 210, 123);
+  float: top;
   margin-right: 50px;
   padding: 20px;
 }
 .unimportant {
-  background-color: coral;
-  float: left;
+  background-color:rgb(212, 203, 116);
+  float: top;
   margin-right: 50px;
   padding: 20px;
 }
