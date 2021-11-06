@@ -64,3 +64,13 @@ img {
     margin: 10px;
     background-color: aliceblue;
 }
+.non-important{
+    background-color:rgb(211, 196, 65);
+    float: top;
+    margin-right: 50px;
+    padding: 20px;
+}
+.web p {
+    color:rgb(10, 0, 41);
+    font-style: italic;
+}
