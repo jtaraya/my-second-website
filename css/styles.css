@@ -89,3 +89,13 @@ img {
     color: black;
   }
 }
+table,
+td {
+    border: 1px solid #333;
+}
+
+thead,
+tfoot {
+    background-color: rgb(67, 166, 175);
+    color: #fff;
+}
