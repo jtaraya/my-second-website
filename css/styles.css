@@ -34,6 +34,7 @@ img {
 }
 .intro {
   font-style: italic;
+  color: rgb(13, 23, 119);
 }
 .list {
   color: darkblue;
@@ -84,7 +85,7 @@ img {
 }
 @media screen and (min-width: 768px) {
   body {
-    background-color:;
+    background-color: rgb(221, 233, 243);
     color: black;
   }
 }
