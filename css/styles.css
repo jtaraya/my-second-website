@@ -22,7 +22,7 @@ ul {
   line-height: 40px;
 }
 body {
-  background-color:khaki;
+  background-color: khaki;
 }
 img {
   width: 200px;
@@ -30,14 +30,26 @@ img {
   float: left;
   margin-right: 10px;
 }
-.intro{
-    font-style: italic;
+.intro {
+  font-style: italic;
 }
 .list {
-    color: darkblue;
-    font-weight: bold;
+  color: darkblue;
+  font-weight: bold;
 }
-#list{
-    color: rgb(97, 0, 89);
-    font-weight: bold;
+#list {
+  color: rgb(97, 0, 89);
+  font-weight: bold;
+}
+.important {
+  background-color: bisque;
+  float: left;
+  margin-right: 50px;
+  padding: 20px;
+}
+.unimportant {
+  background-color: coral;
+  float: left;
+  margin-right: 50px;
+  padding: 20px;
 }
