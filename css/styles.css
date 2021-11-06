@@ -53,3 +53,8 @@ img {
   margin-right: 50px;
   padding: 20px;
 }
+.inline{
+    background-color: rgb(14, 233, 233);
+    color: blueviolet;
+    font-style: italic;
+}
