@@ -25,6 +25,7 @@ ul {
 }
 body {
   background-color: aliceblue;
+  font-family: Arial, Helvetica, sans-serif;
 }
 img {
   width: 220px;
@@ -98,4 +99,37 @@ thead,
 tfoot {
     background-color: rgb(67, 166, 175);
     color: #fff;
+}
+#header {
+    background-color: #66CCFF;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
+#container {
+    background-color: white;
+    width: 800px;
+    margin-left:auto;
+    margin-right: auto;
+}
+#content {
+    padding: 10px;
+}
+#nav {
+    width: 180px;
+    float: left;
+}
+#main {
+    width: 600px;
+    float: right;
+}
+#footer {
+    clear: both;
+    padding: 10px;
+    background-color: #6bd1df;
+    color: white;
+    text-align: right;
+}
+a {
+    text-decoration: none;
 }
