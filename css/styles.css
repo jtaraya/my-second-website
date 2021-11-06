@@ -25,10 +25,10 @@ body {
   background-color: khaki;
 }
 img {
-  width: 200px;
-  border-radius: 100px;
+  width: 220px;
+  border-radius: 120px;
   float: left;
-  margin-right: 10px;
+  margin-right: 20px;
 }
 .intro {
   font-style: italic;
