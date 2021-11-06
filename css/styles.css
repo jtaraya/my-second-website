@@ -12,6 +12,7 @@ h2 {
 p {
   font-family: sans-serif;
   color: rgb(37, 0, 8);
+  font-weight: bold;
 }
 .username {
   color: rgb(9, 0, 17);
@@ -34,4 +35,9 @@ img {
 }
 .list {
     color: darkblue;
+    font-weight: bold;
+}
+#list{
+    color: rgb(97, 0, 89);
+    font-weight: bold;
 }
