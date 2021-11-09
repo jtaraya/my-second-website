@@ -3,12 +3,13 @@
 #### By **{Jacob Taraya}**
 ## Description
 Open below link on any browser.
+https://jtaraya.github.io/my-second-website/
 The website shows an image of Jacob Taraya, contact, projects done, education and job experience . It also has my interest/skills and software list i am conversant with as a portfolio }
 ## Setup/Installation Requirements
 * Windows /Ubuntu or Apple computer requeired
 * Install any browser
 * Ensure you have a working internet connection
-* Open link on the browser e.g chrome
+* Open link https://jtaraya.github.io/my-second-website/ on the browser
 * github account
 ## Known Bugs
 {There are currently no bugs to report. }
