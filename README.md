@@ -2,11 +2,13 @@
 #### {A portfolio by Jacob Taraya}, {07-11-2021}
 #### By **{Jacob Taraya}**
 ## Description
-{The website shows an image of Jacob Taraya, contact, projects done, education and job experience . It also has my interest/skills and software list i am conversant with as a portfolio }
+Open below link on any browser.
+The website shows an image of Jacob Taraya, contact, projects done, education and job experience . It also has my interest/skills and software list i am conversant with as a portfolio }
 ## Setup/Installation Requirements
 * Windows /Ubuntu or Apple computer requeired
-* Working internet connection
-* Browser e.g chrome
+* Install any browser
+* Ensure you have a working internet connection
+* Open link on the browser e.g chrome
 * github account
 ## Known Bugs
 {There are currently no bugs to report. }
